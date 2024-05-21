@@ -25,7 +25,7 @@ body {
 }
 
 .img-logo {
-    width: 3000px;
+    width: 300px;
     opacity: 0;
     animation: fadeIn 3s ease-in-out forwards;
     padding-block-end: 10px;
