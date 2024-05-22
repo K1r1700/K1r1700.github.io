@@ -64,6 +64,10 @@ p {
     color: aliceblue;
 }
 
+.p {
+    color: black;
+}
+
 h1 {
     color: rgb(138, 138, 138);
 }
